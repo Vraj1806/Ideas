@@ -31,7 +31,7 @@ export function About() {
         >
           <div className="mb-4 text-xs uppercase tracking-[0.4em] text-cyan">// 01 · About</div>
           <h2 className="max-w-4xl font-display text-4xl font-bold sm:text-6xl">
-            Not a presentation. <span className="text-gradient">A product launch.</span>
+            Three Ideas. <span className="text-gradient">One Vision.</span>
           </h2>
           <p className="mt-6 max-w-3xl text-lg text-muted-foreground">
             This showcase presents three engineered products built to solve real, everyday problems
