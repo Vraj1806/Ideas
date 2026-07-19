@@ -11,7 +11,7 @@ const teamMembers = [
     college: "Computer Engineering",
     guide: "Project Guide",
     skills: "Full-stack · Embedded · AI",
-    vision: "Ship products, not slides",
+    Enrollment: "2402144011",
   },
   {
     initial: "R",
@@ -22,7 +22,7 @@ const teamMembers = [
     college: "Computer Engineering",
     guide: "Project Guide",
     skills: "Python · AI · React",
-    vision: "Build the future with AI",
+    Enrollment: "2402144056",
   },
   {
     initial: "S",
@@ -33,7 +33,7 @@ const teamMembers = [
     college: "Computer Engineering",
     guide: "Project Guide",
     skills: "Web Development · AI",
-    vision: "Create impactful software",
+     Enrollment: "2402144044",
   },
 ];
 
