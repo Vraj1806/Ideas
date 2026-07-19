@@ -90,7 +90,7 @@ export function Team() {
                     <Detail label="College" value={member.college} />
                     <Detail label="Guide" value={member.guide} />
                     <Detail label="Skills" value={member.skills} />
-                    <Detail label="Vision" value={member.vision} />
+                    <Detail label="Enrollment" value={member.Enrollment} />
                   </div>
 
                   <div className="mt-8 flex flex-wrap gap-3">
